@@ -1,7 +1,7 @@
 # 🏛️ GGV IT Department Website
 
 <p align="center">
-  <img src="./assets/banner.png" alt="GGV IT Department Website Banner" width="100%">
+  <img src="./it-department-react/src/assets/gallery/banner.png" alt="GGV IT Department Website Banner" width="100%">
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ The **GGV IT Department Website** is a modern and responsive web portal develope
 ## 🚁 Drone View
 
 <p align="center">
-  <img src="./it-department-react/src/assets/gallery/DroneView.png" alt="Drone View" width="90%">
+  <img src="./it-department-react/src/assets/gallery/droneView.png" alt="Drone View" width="90%">
 </p>
 
 ---
