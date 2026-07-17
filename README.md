@@ -41,7 +41,7 @@ The **GGV IT Department Website** is a modern and responsive web portal develope
 ## 🏠 Home Page
 
 <p align="center">
-  <img src="./src/assets/gallery/Home.png" alt="Home Page" width="90%">
+  <img src="./it-department-react/src/assets/gallery/Home.png" alt="Home Page" width="90%">
 </p>
 
 ---
@@ -49,7 +49,7 @@ The **GGV IT Department Website** is a modern and responsive web portal develope
 ## 🚁 Drone View
 
 <p align="center">
-  <img src="./src/assets/gallery/DroneView.png" alt="Drone View" width="90%">
+  <img src="./it-department-react/src/assets/gallery/DroneView.png" alt="Drone View" width="90%">
 </p>
 
 ---
@@ -57,7 +57,7 @@ The **GGV IT Department Website** is a modern and responsive web portal develope
 ## 📍 Footer
 
 <p align="center">
-  <img src="./src/assets/gallery/Footer.png" alt="Footer" width="90%">
+  <img src="./it-department-react/src/assets/gallery/Footer.png" alt="Footer" width="90%">
 </p>
 
 ---
